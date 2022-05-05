@@ -10,7 +10,7 @@
   5. Flooding (pisanie tej samej litery/cyfry/emoji w jednej wiadomości) jest karalny- MUTE 15m
   6. W miarę zachowuj się na kanałach tekstowych-MUTE 30min
 
-                                             ---Regulamin kanałów głosowych---
+                                              ---Regulamin kanałów głosowych---
   
   9. Nadużywanie mikrofonu na kanałach głosowych jest zabronione (bindy, głośne dźwięki itp.)-MUTE 6min
   10. Wyzywanie jest zabronione (prywatne kanały mają wyjątek)
